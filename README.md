@@ -130,9 +130,13 @@ php stats.php > stats.csv
 - Doesn't Handle mapping of external users and blocked users of GitLab.
 - Project settings and collaborators. (Partially handles invites when adding issue assignee if they are part of organization)
 
-## :warning: API Warning
+## API Warning ⚠️
 
 This project uses GitHub's Preview API. It is undergoing changes so things might break anytime.
+
+## License 🎓
+
+MIT
 
 ## Contributors
 
