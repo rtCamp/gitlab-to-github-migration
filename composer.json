@@ -1,0 +1,15 @@
+{
+  "name": "rtCamp/gitlab-2-github",
+  "description": "Migrate GitLab repo to GitHub",
+  "license": "GPLv2",
+  "require": {
+    "rmccue/requests": "^1.7",
+    "wp-cli/php-cli-tools": "^0.11.9",
+    "vlucas/phpdotenv": "^2.5",
+    "knplabs/github-api": "^2.9",
+    "php-http/guzzle6-adapter": "^1.1",
+    "league/csv": "^9.0",
+    "ext-mbstring": "*",
+    "ext-json": "*"
+  }
+}

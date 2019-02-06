@@ -1,0 +1,15 @@
+vendor
+.idea
+.DS_Store*
+.env
+*.csv
+*.log
+temporarygitdir
+gitlab-projects.json
+gitlab-projects.csv
+all-mapped-users.csv
+all-users.csv
+node_modules
+.all-contributorsrc
+yarn.lock
+package.json
