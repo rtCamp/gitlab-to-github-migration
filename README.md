@@ -2,7 +2,7 @@
 
 This project served it's purpose for rtCamp's own need. The project, by its nature, is not required anymore by rtCamp so it is not maintained anymore.
 
-Your support and pull requests may get unanswered.
+Your support requests and pull requests may get unanswered.
 
 **☠️ Use at your own risk. ☠️**
 
@@ -130,13 +130,9 @@ php stats.php > stats.csv
 - Doesn't Handle mapping of external users and blocked users of GitLab.
 - Project settings and collaborators. (Partially handles invites when adding issue assignee if they are part of organization)
 
-## :warning: Warning
+## :warning: API Warning
 
-This project was done in adhoc manner so there can be some unhandled use-cases.
-
-This project uses GitHub's Preview API.
-
-We used this project to move our self hosted GitLab repos to GitHub.
+This project uses GitHub's Preview API. It is undergoing changes so things might break anytime.
 
 ## Contributors
 
