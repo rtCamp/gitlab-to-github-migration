@@ -1,3 +1,11 @@
+## Warning ⚠️
+
+This project served it's purpose for rtCamp's own need. The project, by its nature, is not required anymore by rtCamp so it is not maintained anymore.
+
+Your support and pull requests may get unanswered.
+
+**☠️ Use at your own risk. ☠️**
+
 ## Requirements
 
 PHP 7.1 or higher.
